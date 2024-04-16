@@ -25,5 +25,5 @@ This is a web application for a mock stock trading platform called **_Elina's Fi
 
 ## Acknowledgment
 
-This is a course project of Harvard's CS50x: Introduction to Computer Science. For detailed project description, please look at:
+This project is a part of the coursework for Harvard's CS50x: Introduction to Computer Science. For detailed project description, please look at:
 https://cs50.harvard.edu/x/2023/psets/9/finance/

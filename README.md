@@ -1,6 +1,6 @@
 # Stock Trading Website
 
-This is a web application for a mock stock trading platform called Elina's Finance . The platform allows users to "buy" and "sell" stocks by querying real stock prices and keeping track of users' portfolios.
+This is a web application for a mock stock trading platform called _Elina's Finance_ . The platform allows users to "buy" and "sell" stocks by querying real stock prices and keeping track of users' portfolios.
 
 ![Stock Trading Website Screenshot](screenshot.png)
 
